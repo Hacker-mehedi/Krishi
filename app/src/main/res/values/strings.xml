@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Krishi</string>
+    <string name="app_tagline">কৃষি ও কৃষকের ডিজিটাল সাথী</string>
+    <string name="tab_home">ড্যাশবোর্ড</string>
+    <string name="tab_feed">কৃষক আড্ডা</string>
+    <string name="tab_market">কৃষি বাজার</string>
+    <string name="tab_advisory">পরামর্শ</string>
+    <string name="search_hint">ফসল, বীজ বা পণ্য খুঁজুন…</string>
+</resources>

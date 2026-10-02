@@ -1,0 +1,6 @@
+{
+  "name": "Krishi",
+  "description": "Smart Agriculture app for Bangladeshi farmers with live weather, seasonal crop advisory, community feed, and farmer marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
